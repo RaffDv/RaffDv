@@ -48,4 +48,5 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
 
 #
-![Snake animation](RaffDv)
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)

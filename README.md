@@ -29,11 +29,7 @@
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"/></a>
 </div>
 
-# 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
-
-#
+# My toolbox
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
@@ -46,3 +42,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" />  
             
 </div>
+
+# 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
+

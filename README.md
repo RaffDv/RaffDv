@@ -7,7 +7,7 @@
 - 💬 Ask me about my projects, my knowledge and my goals for the future, which are always changing 😅
 - 📫 How to reach me:  my social media are below!
 - 😄 Pronouns: default 🤨
-- ⚡ Fun fact: ... 
+- ⚡ Fun fact: I like to play volleyball, I'm an extrovert, I like skateboards and it bothers me when I tell them that I'm going to do something important
 
 # Status
 

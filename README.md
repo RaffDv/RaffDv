@@ -16,7 +16,7 @@
 # Social Media
 
 <div>
-  <a href="https://discord.gg/TAjr8utAkQ" target="_blank">
+  <a href="https://discord.gg/JcqH34xF" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   
   <a href="https://wa.me/5551989078729?text=Ol%C3%A1%2C%20fique%20a%20vontade" target="_blank">
@@ -43,9 +43,9 @@
             
 </div>
 
-# 
+# Playing now
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
 
 #
 

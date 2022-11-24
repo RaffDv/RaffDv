@@ -1,12 +1,12 @@
 # Hello , I'm Raff 😎
 
-- 🔭 I’m currently working on a Weather Website
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on a personal projects
+- 🌱 I am currently learning backend from websites
+- 👯 I am looking to collaborate on projects that seem interesting to me
+- 🤔 I am always looking for help, learning is never too much
+- 💬 Ask me about my projects, my knowledge and my goals for the future, which are always changing 😅
+- 📫 How to reach me:  my social media are below!
+- 😄 Pronouns: default 🤨
 - ⚡ Fun fact: ... 
 
 # Status
@@ -43,9 +43,9 @@
             
 </div>
 
-# Playing now
+# 
 
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
 
 #
 

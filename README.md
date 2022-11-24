@@ -32,3 +32,17 @@
 # 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
+
+#
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" />  
+            
+</div>

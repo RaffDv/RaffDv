@@ -49,4 +49,4 @@
 
 #
 
-![snake gif](https://github.com/RaffDv/RaffDv/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/RaffDv/RaffDv>/blob/output/github-contribution-grid-snake2.svg)

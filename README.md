@@ -11,7 +11,7 @@
 
 # Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=ocean_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=dark)
 
 # Social Media
 

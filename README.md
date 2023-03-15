@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=radical&layout=compact)
 
 # Social Media
 
@@ -46,9 +46,6 @@
 </div>
 
 # 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=0ff53d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ri70s8c8ko51ilwsc0cz131sb&redirect=true)
-
 #
 
 ![snake gif](https://github.com/RaffDv/RaffDv/blob/output/github-contribution-grid-snake.svg)

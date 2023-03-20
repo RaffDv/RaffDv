@@ -17,7 +17,7 @@
 <!-- lang -->
 <img style="height: auto; width: 40%; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact&hide_border=true" />
   <!-- wakatime -->
- <img style="max-height:50%; width: 50%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE" />
+ <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE" />
 </div>
 
  

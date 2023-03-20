@@ -10,42 +10,16 @@
 - 😄 Pronouns: default 🤨
 - ⚡ Fun fact: I like to play volleyball, I'm an extrovert, I like skateboards and it bothers me when I tell them that I'm going to do something important
 
-<div>
+<div style="display: flex; flex-direction: row;align=center; dir=auto">
   <h1>Status</h1><br/>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE"
-  
-/>
-<source
-  
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<img align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_ico)" />
-</picture>
+<img style="width:40%;" src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE" />
 
-  <picture>
-    
-    <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv"
-  
-/>
-<source
-  
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=radical&layout=compact"
-  media="(prefers-color-scheme: dark)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=radical&layout=compact" />
-</picture>
-
-  <picture>
-
-
-
+<!-- lang -->
+<img style="width:30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact" />
+ <img style="width:40%;" src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE" />
 </div>
-
+<!-- wakatime -->
+ 
 # Social Media
 
 <div>

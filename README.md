@@ -12,7 +12,7 @@
 
 <div style="display: flex; flex-direction: row;align=center; dir=auto">
   <h1>Status</h1><br/>
-<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE" />
+<img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&border_hide=true" />
 
 <!-- lang -->
 <img style="height: auto; width: 40%; " src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact" />

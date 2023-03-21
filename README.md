@@ -11,10 +11,13 @@
 
 # Status
 
-<div >
+<div align="center">
+<img src= "https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true">
 
-[![Raff's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true)](https://github.com/RaffDv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact&hide_border=true)](https://github.com/RaffDv/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&v=2&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true">
+
+
 </div>
 
 # Social Media

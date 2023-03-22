@@ -16,11 +16,13 @@ which are always changing 😅
 <p>
 - ⚡ Fun fact: I like to play volleyball, I'm an extrovert, I like
 skateboards and it bothers me when I tell them that I'm going to do
-something important # Status
+something important 
 </p></div>
 
 </section align="center">
+
 <div align="center">
+  <h1> Status </h1>
 <img
 src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true"
 />
@@ -30,6 +32,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme
 <img
 src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true&v=2"
 />
+  <h1> </h1>
 </div>
 <section align="center">
 <h1>Social Media</h1>

@@ -1,6 +1,7 @@
 <section align="center">
 <h1>Hello , I'm Raff 😎</h1>
   <div align="left">
+    <h2 align="center">My time coded : <br/><a href="https://wakatime.com/@e6cabe54-321c-496f-b02c-dbdeee199e8b"><img src="https://wakatime.com/badge/user/e6cabe54-321c-496f-b02c-dbdeee199e8b.svg" alt="Total time coded since Mar 20 2023" /></a></h2>
   <p>- 🔭 I'm currently working on a personal projects</p>
 <p>- 🌱 I am currently learning backend from websites</p>
 <p>

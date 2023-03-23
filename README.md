@@ -32,6 +32,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme
 <img
 src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true&v=2"
 />
+  <p>(Not working right)</p>
   <h1> </h1>
 </div>
 <section align="center">

@@ -77,7 +77,6 @@ src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjar
 </div>
 </section>
 <section align="center">
-  
 <h1>My BackEnd tool box</h1>
 <img
 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -91,7 +90,6 @@ alt="TS"
 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
 alt="nodejs"
 />
-  
 <img
 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
 alt="PHP"
@@ -108,13 +106,12 @@ alt="mysql"
 src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"
 alt="sequelize"
 />
-  <img
+<img
 src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
 alt="prisma"
 />
 </section>
 <section align="center">
-  
 <h1>My FrontEnd tool box</h1>
 <img
 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"

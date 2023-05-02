@@ -26,10 +26,10 @@ something important
   <h1> Status </h1>
 <img
 src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true"
-height="200px" width="50%" />
+height="170px"/>
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact&hide_border=true"
-height="200px" width="50%" />
+height="170px"/>
    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=raffDv&theme=buefy-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=EB545400"/>
 <!-- <img
 src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true&v=2"

@@ -25,7 +25,7 @@ something important
 <div align="center">
   <h1> Status </h1>
 <img
-src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=RaffDv&show_icons=true&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&hide_border=true&hide=stars,issues"
 height="170px"/>
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaffDv&theme=transparent&text_color=A8FF3E&title_color=8F43EE&icon_color=8F43EE&layout=compact&hide_border=true"

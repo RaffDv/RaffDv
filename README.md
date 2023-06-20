@@ -1,10 +1,3 @@
-<style>
-  .status {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-  }
-</style>
 <section align="center">
 <h1>Hello , I'm Raff 😎</h1>
   <div align="left">

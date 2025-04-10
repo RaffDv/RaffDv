@@ -110,6 +110,18 @@ alt="sequelize"
 src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
 alt="prisma"
 />
+  <img
+src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+alt="java"
+/>
+<img
+src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+alt="rust"
+/>
+<img
+src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+alt="python"
+/>
 </section>
 <section align="center">
 <h1>My FrontEnd tool box</h1>
@@ -136,21 +148,6 @@ alt="tailwindcss"
 <img
 src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=w"
 alt="bootstrap"
-/>
-</section>
-<section align="center">
-<h1>Other languages</h1>
-<img
-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-alt="java"
-/>
-<img
-src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-alt="rust"
-/>
-<img
-src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-alt="python"
 />
 </section>
 

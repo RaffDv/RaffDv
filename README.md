@@ -36,46 +36,8 @@ src="https://github-readme-stats.vercel.app/api/wakatime?username=raffdv&theme=t
 /> -->
   <h1> </h1>
 </div>
-<section align="center">
-<h1>Social Media</h1>
-<div>
-<a href="https://discord.gg/JcqH34xF" target="_blank">
-<img
-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-target="_blank"
-/></a>
-<a
-href="https://wa.me/5551989078729?text=Ol%C3%A1%2C%20fique%20a%20vontade"
-target="_blank"
->
-<img
-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-target="_blank"
-/></a>
-<a href="https://www.instagram.com/raffm777/" target="_blank">
-<img
-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-target="_blank"
-/></a>
-<a
-href="https://open.spotify.com/user/ri70s8c8ko51ilwsc0cz131sb"
-target="_blank"
->
-<img
-src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
-target="_blank"
-/></a>
-</div>
-</section>
-<section align="center">
-<h1 align="center">S.O Using Now</h1>
-<div>
-<a href="https://manjaro.org"
-><img
-src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"
-/></a>
-</div>
-</section>
+
+
 <section align="center">
 <h1>My BackEnd tool box</h1>
 <img
